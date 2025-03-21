@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 ### Thank you for visiting my profile💖
-  <img width="350" alt=";}" src="https://github.com/user-attachments/assets/9c47ea4c-2734-44d2-b33d-35475b2a1d49">
+  <img width="350" alt=";}" src="#">
   
 </div>
 
