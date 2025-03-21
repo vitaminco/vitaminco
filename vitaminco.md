@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
-  Hi there 👋, I'm VzTong!
+  Hi there 👋, I'm Hưng né!
 </h1>
-<p align="center">⚡You can call me Vy or the nickname I mentioned before, my real name is Tong Nha Vy
-  <b>🍀Tống Nhã Vy🍀</b> 
+<p align="center">⚡You can call me Vy or the nickname I mentioned before, my real name is Huỳnh Khánh Hưng
+  <b>🍀Huỳnh Khánh Hưng🍀</b> 
   (≧∇≦)ﾉ  
 </p>
 
