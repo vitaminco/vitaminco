@@ -1,21 +1,32 @@
-- 👋 Hi, I’m @vitaminco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vitaminco/vitaminco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
-  Hi there 👋, I'm Hưng nè!
+  Hi there 👋, I'm VitaminCo!
 </h1>
 <p align="center">⚡You can call me Hưng or the nickname I mentioned before, my real name is Huỳnh Khánh Hưng
   <b>🍀Huỳnh Khánh Hưng🍀</b> 
   (≧∇≦)ﾉ  
 </p>
+
+
+🎉 Về mình
+
+
+
+
+
+👀 Thích thú với: Làm web đẹp, open-source, và khám phá công nghệ mới.
+
+
+
+🌱 Đang học: React, Node.js, và cách làm backend siêu mượt.
+
+
+
+💞️ Muốn collab: Dự án web sáng tạo, tool cào dữ liệu, hoặc bất kỳ ý tưởng "điên rồ" nào!
+
+
+
+📫 Liên hệ mình: Email | LinkedIn | Portfolio
 
 <table>
   <th>
@@ -53,4 +64,4 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-<p align="center">Click here to see more: https://kinghqueenn.id.vn/</p>
+<p align="center">Click here to see more: https://hungcomy.id.vn/</p>
