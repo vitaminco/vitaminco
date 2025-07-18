@@ -60,8 +60,6 @@
 <div align="center">
 
 ### Thank you for visiting my profile💖
-  <img width="350" alt=";}" src="#">
-  
 </div>
 
 <p align="center">Click here to see more: https://hungcomy.id.vn/</p>
